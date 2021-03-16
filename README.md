@@ -1,5 +1,5 @@
 ## Project Title
-  #Note-Taker
+  # Note-Taker
   
 
 ## Description
@@ -13,9 +13,6 @@ You will need node.js installed
 * [Node.js](https://en.wikipedia.org/wiki/Node.js)
 
 To install the required dependencies, please run the following command:
-
-* [inquirer](https://www.npmjs.com/package/inquirer/v/0.2.3)
-
 
 ```
 npm init -y
