@@ -30,8 +30,18 @@ npm init -y
 npm install uniqid
 
 ```
+## Web Url :
+
+Navigate to : https://murmuring-basin-06936.herokuapp.com/notes
 
 ## Usage
+
+Walthrough of adding and deleting notes
+[Video](https://drive.google.com/file/d/1qKjRP6FvxJMtav5sCCdJXlP_T28JuUgf/view)
+
+## Mock-up 
+![NoteTaker_homepage](./assets/images/notetaker_homepage.jpg)
+![Notetaker_add_delete](./assets/images/add_delete_notes.jpg)
 
 
 ## Contribution Guidelines
@@ -47,5 +57,3 @@ Link to Contributor's Covenant: https://www.contributor-covenant.org/version/2/0
 Github Profile : [Creator]:(https://github.com/bhavipatel21)
 
 If you have any questions please email me at bhavij0511@gmail.com
-  
-  
