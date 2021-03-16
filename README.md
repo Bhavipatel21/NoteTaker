@@ -1,14 +1,6 @@
 ## Project Title
   #Note-Taker
   
-  ## Table of Contents
-
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contribution Guidelines](#contribution-guidelines)
-* [License](#license)
-* [Questions](#questions)
 
 ## Description
 AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete
@@ -23,7 +15,7 @@ You will need node.js installed
 To install the required dependencies, please run the following command:
 
 * [inquirer](https://www.npmjs.com/package/inquirer/v/0.2.3)
-* [jest](https://www.npmjs.com/package/jest)
+
 
 ```
 npm init -y
